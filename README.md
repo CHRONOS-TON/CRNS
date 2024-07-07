@@ -1,2 +1,1 @@
-# CRNS
-Chronos is a future-proof, self-evolving cryptocurrency. It isn't just a coin; it's a decentralized ecosystem that adapts to market fluctuations in real-time.
+# ![IMG_20240707_122057_879 jpg](https://github.com/CHRONOS-TON/CHRNS/assets/158161112/63d11f26-aee1-4610-bfc8-a9497f41be25)
